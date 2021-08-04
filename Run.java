@@ -1,21 +1,33 @@
-package com.kh.practice2.run;
+package com.kh.practice.run;
 
-import com.kh.practice2.func.CastingPractice1;
-import com.kh.practice2.func.CastingPractice2;
-import com.kh.practice2.func.CastingPractice3;
+import com.kh.practice.func.OperatorPractice;
 
 public class Run {
-	
-	public static void main(String[] args) {
-		CastingPractice1 cp1 = new CastingPractice1();
-		cp1.method1();
-
-		CastingPractice2 cp2 = new CastingPractice2();
-		cp2.method2();
+	public static void main(String[] args)
+	{
+		OperatorPractice op = new OperatorPractice();
 		
-		CastingPractice3 cp3 = new CastingPractice3();
-		cp3.method3();
-		
+		System.out.println("-----Practice1-----");
+		op.practice1();
+		System.out.println("-----Practice2-----");
+		op.practice2();
+		System.out.println("-----Practice3-----");
+		op.practice3();
+		System.out.println("-----Practice4-----");
+		op.practice4();
+		System.out.println("-----Practice5-----");
+		op.practice5();
+		System.out.println("-----Practice6-----");
+		op.practice6();
+		System.out.println("-----Practice7-----");
+		op.practice7();
+		System.out.println("-----Practice8-----");
+		op.practice8();
+		System.out.println("-----Practice9-----");
+		op.practice9();
+		System.out.println("-----Practice10-----");
+		op.practice10();
+		System.out.println("-----Practice11-----");
+		op.practice11();
 	}
-
 }
