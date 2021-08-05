@@ -1,33 +1,34 @@
-package com.kh.practice.run;
-
-import com.kh.practice.func.OperatorPractice;
+package com.kh.practice.chap01;
 
 public class Run {
 	public static void main(String[] args)
 	{
-		OperatorPractice op = new OperatorPractice();
 		
-		System.out.println("-----Practice1-----");
-		op.practice1();
-		System.out.println("-----Practice2-----");
-		op.practice2();
-		System.out.println("-----Practice3-----");
-		op.practice3();
-		System.out.println("-----Practice4-----");
-		op.practice4();
-		System.out.println("-----Practice5-----");
-		op.practice5();
-		System.out.println("-----Practice6-----");
-		op.practice6();
-		System.out.println("-----Practice7-----");
-		op.practice7();
-		System.out.println("-----Practice8-----");
-		op.practice8();
-		System.out.println("-----Practice9-----");
-		op.practice9();
-		System.out.println("-----Practice10-----");
-		op.practice10();
-		System.out.println("-----Practice11-----");
-		op.practice11();
+	ControlPractice cp = new ControlPractice();
+	System.out.println("실습문제 1");
+	cp.practice1();
+	System.out.println("실습문제 2");
+	cp.practice2();
+	System.out.println("실습문제 3");
+	cp.pracitce3();
+	System.out.println("실습문제 4");
+	cp.practice4();
+	System.out.println("실습문제 5");
+	cp.practice5();
+	System.out.println("실습문제 6");
+	cp.practice6();
+	System.out.println("실습문제 7");
+	cp.practice7();
+	System.out.println("실습문제 8");
+	cp.practice8();
+	System.out.println("실습문제 9");
+	cp.practice9();
+	System.out.println("실습문제 10");
+	cp.practice10();
+	System.out.println("실습문제 11");
+	cp.practice11();
+	
+	
+	
 	}
 }
