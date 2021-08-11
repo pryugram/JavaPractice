@@ -1,42 +1,47 @@
-package com.kh.practice.chap02.run;
+package com.kh.practice.run;
 
-import com.kh.practice.chap02.loop.LoopPractice;
+import com.kh.practice.array.ArrayPractice;
 
 public class Run {
+
 	public static void main(String[] args) {
-		LoopPractice lp = new LoopPractice();
-//		System.out.println("½Ç½À¹®Á¦1");
-//		lp.practice1();
-//		System.out.println("½Ç½À¹®Á¦2");
-//		lp.practice2();
-//		System.out.println("½Ç½À¹®Á¦3");
-//		lp.practice3();
-//		System.out.println("½Ç½À¹®Á¦4");
-//		lp.practice4();
-//		System.out.println("½Ç½À¹®Á¦5");
-//		lp.practice5();
-//		System.out.println("½Ç½À¹®Á¦6");
-//		lp.practice6();
-//		System.out.println("½Ç½À¹®Á¦7");
-//		lp.practice7();
-//		System.out.println("½Ç½À¹®Á¦8");
-//		lp.practice8();
-//		System.out.println("½Ç½À¹®Á¦9");
-//		lp.practice9();
-//		System.out.println("½Ç½À¹®Á¦10");
-//		lp.practice10();
-//		System.out.println("½Ç½À¹®Á¦11");
-//		lp.practice11();
-//		System.out.println("½Ç½À¹®Á¦12");
-//		lp.practice12();
-//		System.out.println("½Ç½À¹®Á¦13");
-//		lp.practice13();
-//		System.out.println("½Ç½À¹®Á¦14");
-//		lp.practice14();
-//		System.out.println("½Ç½À¹®Á¦15");
-//		lp.practice15();
-//		System.out.println("½Ç½À¹®Á¦16");
-//		lp.practice16();
+
+		ArrayPractice ap = new ArrayPractice();
+		
+//		System.out.println("====== ì‹¤ìŠµë¬¸ì œ1 =====");
+//		ap.practice1();
+//		System.out.println("====== ì‹¤ìŠµë¬¸ì œ2 =====");
+//		ap.practice2();
+		System.out.println("====== ì‹¤ìŠµë¬¸ì œ3 =====");
+		ap.practice3();
+//		System.out.println("====== ì‹¤ìŠµë¬¸ì œ4 =====");
+//		ap.practice4();
+//		System.out.println("====== ì‹¤ìŠµë¬¸ì œ5 =====");
+//		ap.practice6();
+//		System.out.println("====== ì‹¤ìŠµë¬¸ì œ6 =====");
+//		ap.practice6();
+//		System.out.println("====== ì‹¤ìŠµë¬¸ì œ7 =====");
+//		ap.practice7();
+//		System.out.println("====== ì‹¤ìŠµë¬¸ì œ8 =====");
+//		ap.practice8();
+//		System.out.println("====== ì‹¤ìŠµë¬¸ì œ9 =====");
+//		ap.practice9();
+//		System.out.println("====== ì‹¤ìŠµë¬¸ì œ10 =====");
+//		ap.practice10();
+//		System.out.println("====== ì‹¤ìŠµë¬¸ì œ11 =====");
+//		ap.practice11();
+//		System.out.println("====== ì‹¤ìŠµë¬¸ì œ12 =====");
+//		ap.practice12();
+//		System.out.println("====== ì‹¤ìŠµë¬¸ì œ13 =====");
+//		ap.practice13();
+//		System.out.println("====== ì‹¤ìŠµë¬¸ì œ14 =====");
+//		ap.practice14();
+//		System.out.println("====== ì‹¤ìŠµë¬¸ì œ15 =====");
+//		ap.practice15();
+//		System.out.println("====== ì‹¤ìŠµë¬¸ì œ16 =====");
+//		ap.practice16();
+//		
+		
 		
 		
 	}
